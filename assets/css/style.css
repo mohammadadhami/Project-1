@@ -67,6 +67,7 @@ nav ul li a{
     justify-content: center;
     align-items: center;
     gap: 10px;
+    padding-top: 5px;
 }
 .login a{
     color: #545BE8;
